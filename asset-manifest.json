@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/school-rose/static/css/main.00bbce78.css",
+    "main.js": "/school-rose/static/js/main.a8c47612.js",
+    "static/js/787.b30854ec.chunk.js": "/school-rose/static/js/787.b30854ec.chunk.js",
+    "static/media/SchoolLogo.png": "/school-rose/static/media/SchoolLogo.49982b02b946c27d4954.png",
+    "static/media/revicons.eot": "/school-rose/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/school-rose/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/school-rose/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/school-rose/index.html",
+    "main.00bbce78.css.map": "/school-rose/static/css/main.00bbce78.css.map",
+    "main.a8c47612.js.map": "/school-rose/static/js/main.a8c47612.js.map",
+    "787.b30854ec.chunk.js.map": "/school-rose/static/js/787.b30854ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00bbce78.css",
+    "static/js/main.a8c47612.js"
+  ]
+}
